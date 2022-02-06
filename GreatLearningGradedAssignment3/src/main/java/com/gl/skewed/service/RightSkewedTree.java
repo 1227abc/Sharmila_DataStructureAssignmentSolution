@@ -15,7 +15,6 @@ public class RightSkewedTree {
 	}
 
 	public static void rightSkew(Node root) {
-
 		if (root == null)
 			return;
 		else {
